@@ -40,5 +40,3 @@ const getUserChoice = userInput => {
   }
   
   playGame()
-  
-  
